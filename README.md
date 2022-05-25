@@ -16,6 +16,6 @@ It's a practice ecommerce project by following a video tutorial from -
 https://www.youtube.com/watch?v=4mOkFXyxfsU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=2&ab_channel=JavaScriptMastery
 
 This project id build using NextJS, Sanity, Stripe & tailwind.
-
+Project link - https://react-ecomerce-practice-hpfwheyvp-afrin-titly.vercel.app
 
 
